@@ -1,0 +1,1 @@
+export const SET_RAFFLES_RESULT = 'SET_RAFFLES_RESULT';

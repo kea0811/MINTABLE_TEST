@@ -1,0 +1,11 @@
+@import "../../scss/web_base";
+
+.successWrapper {
+  width: 100%;
+  margin: 0 !important;
+  .ticketRevealSectionAreaWrapper {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    padding-right: 3rem !important;
+  }
+}
